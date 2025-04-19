@@ -1,16 +1,16 @@
 {
-  "BRAND": "CiteWish",
+  "BRAND": "ExamYaar",
   "BRAND_FIRST_PART": "Cite",
   "BRAND_LAST_PART": "Wish",
-  "COMPANY": "CiteWish Inc.",
+  "COMPANY": "ExamYaar Inc.",
   "SITE": "http://localhost:3000",
   "TAGLINE": "Transforming the way you work with innovative solutions",
   "DEFAULT_LOCALE": "en-US",
   "SUPPORTED_LANGUAGES": ["en-US", "es-ES", "fr-FR"],
   "COPYRIGHT_START_YEAR": 2024,
-  "SUPPORT_EMAIL": "support@citewish.com",
+  "SUPPORT_EMAIL": "support@examyaar.com",
   "NOREPLY_EMAIL": "onboarding@resend.dev",
-  "TWITTER_HANDLE": "@citewish",
-  "GITHUB_HANDLE": "citewish",
-  "LINKEDIN_HANDLE": "citewish"
+  "TWITTER_HANDLE": "@examyaar",
+  "GITHUB_HANDLE": "examyaar",
+  "LINKEDIN_HANDLE": "examyaar"
 }

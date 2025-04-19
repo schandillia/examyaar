@@ -5,8 +5,8 @@ import meta from "@/lib/data/meta.json"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: meta.CITE.TITLE,
-  description: meta.CITE.DESCRIPTION,
+  title: meta.RESOURCES.TITLE,
+  description: meta.RESOURCES.DESCRIPTION,
   icons: [{ rel: "icon", url: "/favicon.svg" }],
 }
 
