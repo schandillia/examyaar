@@ -1,0 +1,34 @@
+{
+  "HOME": {
+    "TITLE": "CiteWish: Effortless Citation Management, Powered by Precision",
+    "DESCRIPTION": "CiteWish is your all-in-one citation manager. Instantly generate, organize, and export flawless citations in MLA, APA, Chicago, and more. Pay once, cite forever—no subscriptions, no hassle."
+  },
+  "DASHBOARD": {
+    "TITLE": "Your Citation Dashboard | CiteWish",
+    "DESCRIPTION": "Access and manage all your saved citations in one place. Organize, edit, export, and keep your references ready for any project with CiteWish’s intuitive dashboard."
+  },
+  "CITE": {
+    "TITLE": "Generate Citations in MLA, APA, Chicago & More | CiteWish",
+    "DESCRIPTION": "Use CiteWish’s intelligent citation generator to create properly formatted references in seconds. Choose from MLA, APA, Chicago, and other major styles, enter your source details, and get flawless citations ready to copy, export, or save."
+  },
+  "TERMS": {
+    "TITLE": "Terms of Service | CiteWish",
+    "DESCRIPTION": "Review the Terms of Service to understand your rights and responsibilities while using CiteWish’s citation tools and features."
+  },
+  "PRIVACY": {
+    "TITLE": "Privacy Policy | CiteWish",
+    "DESCRIPTION": "Learn how CiteWish collects, uses, and protects your data, and the privacy choices available to you."
+  },
+  "ABOUT": {
+    "TITLE": "About | CiteWish",
+    "DESCRIPTION": "Discover CiteWish’s mission to simplify academic citation and reference management for students, educators, and researchers worldwide."
+  },
+  "DISCOVER": {
+    "TITLE": "Discover | CiteWish",
+    "DESCRIPTION": "Explore CiteWish’s robust features—from smart citation generation to multi-format support and seamless export options."
+  },
+  "PRICING": {
+    "TITLE": "Pricing | CiteWish",
+    "DESCRIPTION": "Affordable, transparent pricing with lifetime access. CiteWish lets you cite without limits—no monthly fees, ever."
+  }
+}
